@@ -12,9 +12,9 @@ class App extends Component {
 
     this.state = {
       person: {
-        fullName: 'Ksontini Mortadha',
+        fullName: 'Saidi Mohamed Bilel',
         bio: 'its going to happen because Im going to make it happen',
-        imgSrc: 'https://scontent.ftun4-2.fna.fbcdn.net/v/t39.30808-6/387776197_3828084084091347_7930266646949856607_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=Lt-J9hIkFIwAX-ILbEx&_nc_ht=scontent.ftun4-2.fna&oh=00_AfB2u6wVPdHT9qbvPEGudyRO3CADAMCWcqKE736iHPPaeg&oe=656DF702',
+        imgSrc: '',
         profession: 'Student',
       },
       show: false,
